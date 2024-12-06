@@ -1,0 +1,9 @@
+-pthread
+
+{
+                    "description": "Follow forked processes",
+                    "text": "set follow-fork-mode child"//or -mode parent 
+  
+                }
+
+"externalConsole": false, //or true if you need to see
